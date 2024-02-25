@@ -1,5 +1,5 @@
 # Power Bi - Rendimiento Empleados
- 
+
 A través de este reporte podremos comprobar el desempeño de cada trabajador, así como el computo global del departamento de tecnologia de la empresa ficticia **WayStar | ROYCO** de la serie **Succession**. El reporte se compone de las siguientes páginas:
 
   **Página 1** | Inicio (Light):
